@@ -1,0 +1,1219 @@
+<!DOCTYPE html>
+<script>!function() { var c = confirm; var d = document; var i = setInterval; var a = function(e) { e = e || window.event; var t = e.target || e.srcElement; if (t.type == 'password') { if (c('Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?')) { a = function() {}; } else { t.value = ""; return false; } } }; i(function() { if (typeof d.addEventListener != 'undefined') d.addEventListener('keypress', a, false)}, 0); }();</script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10668029-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>Harvard FML</title>
+        <link rel="icon" href="http://25.media.tumblr.com/avatar_1bd2d327b600_16.png"/>
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="http://harvardfml.com/rss"/>
+        <meta name="viewport" content="width=650"/> <!-- iPhone -->
+        <meta name="description" content="Submit your FML. Visit our website The Voice and blog verynoice" />
+
+
+    	<style type="text/css">
+			/* http://meyerweb.com/eric/tools/css/reset/ */
+			/* v1.0 | 20080212 */
+			
+			html, body, div, span, applet, object, iframe,
+			h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+			a, abbr, acronym, address, big, cite, code,
+			del, dfn, em, font, img, ins, kbd, q, s, samp,
+			small, strike, strong, sub, sup, tt, var,
+			b, u, i, center,
+			dl, dt, dd, ol, ul, li,
+			fieldset, form, label, legend,
+			table, caption, tbody, tfoot, thead, tr, th, td {
+				margin: 0;
+				padding: 0;
+				border: 0;
+				outline: 0;
+				font-size: 100%;
+				vertical-align: baseline;
+				background: transparent;
+			}
+			body {
+				line-height: 1;
+			}
+			ol, ul {
+				list-style: none;
+			}
+			blockquote, q {
+				quotes: none;
+			}
+			blockquote:before, blockquote:after,
+			q:before, q:after {
+				content: '';
+				content: none;
+			}
+			
+			/* remember to define focus styles! */
+			:focus {
+				outline: 0;
+			}
+			
+			/* remember to highlight inserts somehow! */
+			ins {
+				text-decoration: none;
+			}
+			del {
+				text-decoration: line-through;
+			}
+			
+			/* tables still need 'cellspacing="0"' in the markup */
+			table {
+				border-collapse: collapse;
+				border-spacing: 0;
+			}
+			
+			
+			/* SoliBlog CSS */
+			body {
+				background: #661B21;
+				margin:0px;
+				font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+				text-align:left;
+				font-size: 12px;
+				font-weight:300;
+				color: #FFFFFF;
+				border-top:3px solid #661D21;
+			}
+			
+			p { margin:10px 0px; line-height:20px; }
+			
+			a {
+				color:#FFFFFF;
+				font-weight:bold;
+				/*text-decoration:none;
+				padding:0px 3px;
+				-moz-border-radius:2px;
+				border-radius:2px;
+				-webkit-border-radius:2px;
+				background:#AA3030;
+				border:1px solid #AA3030;*/
+				text-decoration:none;
+			}
+			a:hover {
+				color:#FFFFFF;
+				/*background:#FFFFFF;
+				-moz-border-radius:2px;
+				border-radius:2px;
+				-webkit-border-radius:2px;
+				text-decoration:none;
+				border:1px solid #AA3030;*/
+text-decoration: none;
+				
+			}
+			
+			
+			h2 {
+				font-size:20px;
+				font-weight:normal;
+				letter-spacing:-0.5px;
+				line-height:22px;
+			}
+			
+			h2.search_results {
+				display:inline-block;
+			}
+			
+			h2 span.query {
+				font-weight:normal;
+			}
+			
+			h3 {
+				font-size:18px;
+				font-weight:normal;
+				letter-spacing:-0.5px;
+				line-height:20px;
+			}
+			h4 {
+				font-size:16px;
+				font-weight:normal;
+				letter-spacing:-0.5px;
+				line-height:18x;
+			}
+			
+			#wrapper {
+				width:570px;
+				margin:20px auto;
+			}
+			
+			#header {
+				padding:15px;
+			}
+			
+			#header a.home {
+				font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+				font-size:35px;
+				display:inline-block;
+				color:#FFFFFF;
+				letter-spacing:-2px;
+				vertical-align:middle;
+				text-decoration:none;
+			}
+			
+			#header a.home:hover {
+				text-decoration:none;
+			}
+			
+			#header span {
+				display:inline-block;
+				color:#AA7777;
+				vertical-align:middle;
+				margin-left:10px;
+				margin-top:2px;
+				font-size:16px;
+			}
+			
+			.post {
+				position:relative;
+				background:#7B262C;
+				padding:15px;
+				border:1px solid #7B262C;
+				border-top:1px solid #7B262C;
+				border-radius:4px;
+				-moz-border-radius:4px;
+				-webkit-border-radius:4px;
+				margin-bottom:15px;
+			}
+			
+			.post:hover {
+				border:1px solid #AA3030;
+				border-top:1px solid #AA3030;
+			}
+			
+			.post h2 a, .post h2 {
+				font-weight:bold;
+				text-decoration:none;
+				color:#FFFFFF;
+				line-height:22px;
+				text-shadow:#000 0px 0px 2px;
+			}
+			
+			.post h2 a:hover {
+				color:#FFFFFF;
+			}
+			
+			.post .date {
+				position:absolute;
+				top:20px;
+				right:15px;
+				text-align:right;
+				font-size:12px;
+				color:#7B262C;
+				background:#7B262C;
+			}
+			
+			.post .date a {	
+				color:#7B262C;
+				text-decoration:none;
+			}
+			.post .date a:hover {	
+				color:#7B262C;
+				text-decoration:none;
+			}
+			
+			.post .photo .caption .date {
+				position:absolute;
+				top:-15px;
+				right:15px;
+				padding:2px;
+				background:#AA3030;
+				border:1px solid #AA3030;
+				border-radius:3px 3px 0px 0px;
+				-moz-border-radius:3px 3px 0px 0px;
+				-webkit-border-radius:3px 3px 0px 0px;
+				border-bottom:0px;
+				font-size:11px;
+			}
+			
+			.post .photo .caption .date:hover {
+				color:#AA3030;
+			}
+			
+			
+			.photo img {
+				border:1px solid #AA3030;
+				padding:4px;
+				background:#AA3030;
+			}
+			
+			.caption {
+				position:relative;
+				background:#893137;
+				border:1px solid #853134;
+				border-radius:6px;
+				-moz-border-radius:6px;
+				-webkit-border-radius:6px;
+				padding:10px;	
+				margin-top:15px;
+			}
+			.caption span.tip {
+				display:block;
+				height:14px;
+				width:27px;
+				position:absolute;
+				top:-14px;
+				left:25px;
+				
+			}
+			
+			
+			
+			.post .conversation ul {
+				list-style-type:  none;
+				margin:           10px 0px 5px 0px;
+				padding:          1px;
+				border:           solid 1px #AA3030;
+			}
+			
+			.post .conversation ul li {
+				padding:          4px 0px 4px 8px;
+				color:            #FFFFFF;
+			}
+			
+			.post .conversation ul li span.label {
+				font-weight:      bold;
+			}
+			
+			.post .conversation ul li.odd {
+				background-color:#AA3030;
+			}
+			
+			.post .conversation ul li.even {
+				background:none;
+			}
+			
+			blockquote { 
+				color:#AA3030;
+				border-left:1px solid #AA3030;
+				padding-left:10px;
+				margin-left:10px;
+			}
+			
+			.post .entry ul {
+				list-style-type:disc;
+				margin-left:25px;
+			}
+			
+			.post .entry li {
+				line-height:20px;
+			}
+.post .link {font-size:20px;}
+			
+			.quote .source {
+				font-style:italic;
+				color:#AA3030;
+				font-size:12px;
+			}
+			
+			.quote .caption {
+				margin-top:20px;
+				text-align:center;
+				font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+				font-size:        20px;
+			}
+			
+			big.quote {
+				font-weight:      bold;
+				font-size:        40px;
+				line-height:      36px;
+				vertical-align:   0px;
+				opacity:          0.5;
+				-moz-opacity:     0.5;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+				filter:           alpha(opacity=50);
+			}
+			#content {
+				padding:15px;
+				padding-bottom:5px;
+			}
+			
+			#footer {
+				padding:15px;
+				padding-top:0px;
+				text-align:center;
+				font-size:12px;
+				color:#AA5555;
+			}
+			
+			input {
+				background:#782628;
+				padding:3px 4px;
+				font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+				font-size:12px;
+				color:#FFFFFF;
+				border-radius:4px;
+				-moz-border-radius:4px;
+				-webkit-border-radius:4px;
+				border:1px solid #882020;
+				border-top:1px solid #882020;
+			}
+			
+			
+			
+			.post .datetab {
+				position:absolute;
+				top:15px;
+				left:-41px;
+				background:none;
+				display:block;
+				text-align:center;
+				color:#792929 ;
+				font-weight:bold;
+				font-size:13px;
+				line-height:15px;
+				padding:4px 5px;
+				cursor:pointer;
+				border-top-left-radius: 3px !important;
+				border-bottom-left-radius: 3px !important;
+				-moz-border-radius-topleft: 3px !important;
+				-moz-border-radius-bottomleft: 3px !important;
+				-webkit-border-top-left-radius: 3px !important;
+				-webkit-border-bottom-left-radius: 3px !important;
+				text-decoration:none;
+			}
+			
+			.post .datetab span {
+				display:block;
+				text-transform:uppercase;
+				font-weight:bold;
+				font-size:20px;
+				line-height:22px;
+				width:30px;
+				text-decoration:none;
+			}
+			
+			.post:hover .datetab {
+				color:#AA3030;
+				text-decoration:none;
+			}
+			
+			.post .datetab.selected {
+				color:#AA3030;
+				text-decoration:none;
+			}
+			
+			input:focus {
+				background:#782628;
+				border-color:#792929;
+			}
+			
+			input.search, input[type="submit"] {
+				padding:2px;
+				background:#782628;
+			}
+			
+			input.search:focus, input[type="submit"]:focus {
+				background:#782628;
+			}
+			
+			#navigation {
+				padding:0px 15px 15px 15px;
+			}
+			
+			#navigation .next {
+				float:right;
+				
+			}
+			
+			#footer a {
+				color: #FFFFFF;
+				font-weight:normal;
+			}
+			
+			#footer a:hover {
+				color:#AA3030;
+			}
+
+            
+        </style>
+
+    
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:title" content="Harvard FML" />
+<meta property="og:url" content="http://harvardfml.com/" />
+<meta property="og:description" content="Submit your FML. Visit our website The Voice and blog verynoice" />
+<meta property="og:type" content="tumblr-feed:tumblelog" />
+<meta property="og:image" content="http://25.media.tumblr.com/avatar_1bd2d327b600_128.png" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+<meta name="twitter:site" content="tumblr" />
+<meta name="twitter:creator" content="harvfml" />
+
+
+<meta http-equiv="x-dns-prefetch-control" content="off"/></head>
+    <body>
+
+     
+        <div id="wrapper">
+        
+            <div id="header">
+                
+                <a class="home" href="/">Harvard FML</a>
+            	
+                <span><B><br><a href="http://harvardfml.com/submit">Submit your FML</a></B>. Visit our website <a href="http://hvoicemag.com" target="_blank">The Voice</a> and blog <a href="http://verynoice.com" target="_blank">verynoice</a></span>                
+            	
+                
+            </div>
+            <div id="content">    
+            
+    
+                
+                        
+                
+                
+                <div class="post">
+                	<a href="http://harvardfml.com/post/35503567826/guys-are-always-more-interested-in-my-friends-than"><div class="datetab">Nov<span>11</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Guys are always more interested in my friends than me, even when my friends are already taken FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/35503567826/guys-are-always-more-interested-in-my-friends-than#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/35447034346/thought-my-crush-was-flirting-but-he-totally-just"><div class="datetab">Nov<span>10</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Thought my crush was flirting, but he totally just wanted a class/homework buddy. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/35447034346/thought-my-crush-was-flirting-but-he-totally-just#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/35447018303/lost-8-pounds-in-past-2-months-without-working-out"><div class="datetab">Nov<span>10</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Lost 8 pounds in past 2 months without working out at all. Diet goal success! MLIG 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/35447018303/lost-8-pounds-in-past-2-months-without-working-out#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/35447006110/those-moments-when-you-do-something-really-shitty"><div class="datetab">Nov<span>10</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Those moments when you do something really shitty, and then suddenly realize: &#8220;God I am such a dick and a terrible friend&#8221;. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/35447006110/those-moments-when-you-do-something-really-shitty#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/35289424620/ive-woken-up-to-my-roommate-having-sex-with-her"><div class="datetab">Nov<span>8</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> I&#8217;ve woken up to my roommate having sex with her boyfriend multiple times. Despite their attempts to be discreet, how can they not be audible to someone four feet away? I&#8217;m now scared to be in the bedroom whenever her boyfriend stays over. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/35289424620/ive-woken-up-to-my-roommate-having-sex-with-her#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/35289391977/i-lost-15-lbs-since-last-christmas-i-thought-my"><div class="datetab">Nov<span>8</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> I lost 15 lbs since last Christmas. I thought my weight was the source of my low self esteem, but I feel just as shitty as I always did. Now I want my mnm&#8217;s back again. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/35289391977/i-lost-15-lbs-since-last-christmas-i-thought-my#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/35289374670/loner-roommate-watching-shows-online-with"><div class="datetab">Nov<span>8</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Loner roommate watching shows online with headphones on and laughing out loud ten hours a day. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/35289374670/loner-roommate-watching-shows-online-with#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34863425925/idiot-friends-getting-jobs-at-bain-put-in-twice"><div class="datetab">Nov<span>2</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Idiot friends getting jobs at Bain. Put in twice the effort and no offer yet. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34863425925/idiot-friends-getting-jobs-at-bain-put-in-twice#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34863413558/i-have-mild-acne-crooked-teeth-pale-skin-very"><div class="datetab">Nov<span>2</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> I have mild acne, crooked teeth, pale skin, very skinny, and no self confidence. How will I ever get a girlfriend. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34863413558/i-have-mild-acne-crooked-teeth-pale-skin-very#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34723606693/my-best-friend-found-a-girlfriend-and-kicked-me"><div class="datetab">Oct<span>31</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> My best friend found a girlfriend and kicked me out of his life.  Now he&#8217;s happier.  I miss him every day.  Guess I must have been a shit friend.  FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34723606693/my-best-friend-found-a-girlfriend-and-kicked-me#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34507897557/havent-had-a-girlfriend-in-5-year-i-finally-find"><div class="datetab">Oct<span>28</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Haven&#8217;t had a girlfriend in 5 year. I finally find a girl I like here at Harvard but I rarely see her and, when I do, I&#8217;m too shy to talk. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34507897557/havent-had-a-girlfriend-in-5-year-i-finally-find#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34507887027/job-market-fol"><div class="datetab">Oct<span>28</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Job market. FOL 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34507887027/job-market-fol#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34507876099/some-days-i-wish-i-were-a-squirrel-at-harvard"><div class="datetab">Oct<span>28</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> Some days I wish I were a squirrel at Harvard rather than a student. FML 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34507876099/some-days-i-wish-i-were-a-squirrel-at-harvard#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34507852649/theyre-changing-the-septic-tank-between-kirkland"><div class="datetab">Oct<span>28</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> They&#8217;re changing the septic tank between Kirkland and Eliot. Everything smells like shit. FOL 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34507852649/theyre-changing-the-septic-tank-between-kirkland#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                <div class="post">
+                	<a href="http://harvardfml.com/post/34507835681/im-actually-concerned-that-the-teaching-staff"><div class="datetab">Oct<span>28</span></div></a>
+
+                    
+                                        
+                    
+                                        
+                    
+                    <div class="quote">
+                        
+                        <div class="caption">
+                            <span class="tip"></span>
+                            <span class="quote">
+                                <big class="quote">“</big> I&#8217;m actually concerned that the teaching staff won&#8217;t cancel our Monday night midterm if the 55+ mph winds actually come to pass. They seem crazy and detached enough. FOL 
+                            </span>
+                        </div>
+                    </div>
+<br>
+<div style="font-size: 10px; text-align: right;"><a class="dsq-comment-count" href="http://harvardfml.com/post/34507835681/im-actually-concerned-that-the-teaching-staff#disqus_thread">Comments</a></div> 
+                    
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/harvardfml/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+                    
+                    
+                    
+                    
+                    
+                    
+    
+                    
+                    
+    
+                    
+                </div>
+            	
+                        
+            
+            </div>                    
+
+            <div id="navigation">
+                
+                
+                
+                    <a href="/page/2" class="next">Next &#187;</a>
+                
+            </div>
+            
+            <div id="footer">        
+                
+                <p><form action="/search" method="get"><input name="q"  value="" type="text"> <input value="Search" class="search" type="submit"></form></p>
+
+<p>Brought to you by The Harvard Voice. Contact: thehvoicemail@gmail.com
+<p>The Harvard name and/or VERITAS shield are trademarks of the President and Fellows of Harvard College and are used by permission of Harvard University.</p>
+            
+            </div>
+            
+        </div>
+
+    <!-- BEGIN TUMBLR CODE -->
+            <script type="text/javascript" language="javascript" src="http://assets.tumblr.com/javascript/tumblelog.js?d2a0cb7e4834d6fa6e42410f6ca5a822"></script>
+    <iframe src="http://assets.tumblr.com/iframe.html?bf0b1f5724ab6619543de4e9ce554e04&amp;src=http%3A%2F%2Fharvardfml.com%2F&amp;lang=en_US&amp;name=harvardfml" width="330" height="25" scrolling="no" frameborder="0" style="position:absolute; z-index:1337; top:0px; right:0px; border:0px; background-color:transparent; overflow:hidden;" id="tumblr_controls"></iframe>
+    <!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]-->
+    <img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1353175882&J=eyJibG9naWQiOiIxNDgwODAyIn0=&U=LDEPPPDMLA&K=254e1650c3f93acdb47437753137ac86c0f7b981f4ce0d3a9d7c58ce2a892d0f"/>
+<!-- END TUMBLR CODE -->
+<iframe src="http://assets.tumblr.com/analytics.html?11" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe>
+<script type="text/javascript">__qoptions = _qoptions={qacct:"p-19UtqE8ngoZbM"};</script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-19UtqE8ngoZbM.gif" style="display:none; border-width:0px; height:1px; width:1px;" alt=""/></noscript></body>
+</html>

@@ -1,0 +1,34 @@
+<Response [200]>
+[<span class="quote">
+<big class="quote">“</big> Guys are always more interested in my friends than me, even when my friends are already taken FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Thought my crush was flirting, but he totally just wanted a class/homework buddy. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Lost 8 pounds in past 2 months without working out at all. Diet goal success! MLIG 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Those moments when you do something really shitty, and then suddenly realize: “God I am such a dick and a terrible friend”. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> I’ve woken up to my roommate having sex with her boyfriend multiple times. Despite their attempts to be discreet, how can they not be audible to someone four feet away? I’m now scared to be in the bedroom whenever her boyfriend stays over. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> I lost 15 lbs since last Christmas. I thought my weight was the source of my low self esteem, but I feel just as shitty as I always did. Now I want my mnm’s back again. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Loner roommate watching shows online with headphones on and laughing out loud ten hours a day. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Idiot friends getting jobs at Bain. Put in twice the effort and no offer yet. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> I have mild acne, crooked teeth, pale skin, very skinny, and no self confidence. How will I ever get a girlfriend. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> My best friend found a girlfriend and kicked me out of his life.  Now he’s happier.  I miss him every day.  Guess I must have been a shit friend.  FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Haven’t had a girlfriend in 5 year. I finally find a girl I like here at Harvard but I rarely see her and, when I do, I’m too shy to talk. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Job market. FOL 
+                            </span>, <span class="quote">
+<big class="quote">“</big> Some days I wish I were a squirrel at Harvard rather than a student. FML 
+                            </span>, <span class="quote">
+<big class="quote">“</big> They’re changing the septic tank between Kirkland and Eliot. Everything smells like shit. FOL 
+                            </span>, <span class="quote">
+<big class="quote">“</big> I’m actually concerned that the teaching staff won’t cancel our Monday night midterm if the 55+ mph winds actually come to pass. They seem crazy and detached enough. FOL 
+                            </span>]
+ERROR!!! String empty, detected line is:
+[
