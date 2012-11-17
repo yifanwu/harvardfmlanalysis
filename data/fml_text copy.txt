@@ -5017,7 +5017,8 @@ My ability to trust people is severely shaken. Don’t want something like this 
                             , 
 “ I am doing everything right but I don’t know how to be happy. FML 
                             , 
-“ I am doing everything right but I don’t know how to be happy. FML
+“ I am doing everything right but I don’t know how to be happy. 
+FML
 ][
 “ I really don’t want to go into finance or consulting but think I’ll probably end up doing so anyway.  The money’s solid, there’s generally good job security, and being from Harvard we get first dibs at the best jobs.  Sometimes I wish I didn’t go to Harvard - finance and consulting are like the proverbial next steps after graduating from here, and if I were elsewhere I think I might be forced to find a passion and pursue it.  FML 
                             , 
@@ -6273,7 +6274,8 @@ There are some things money can’t buy, for everything else… fuck, I still ne
                             , 
 “ Essay due in two hours, midterm tomorrow that I haven’t studied for, math pset that I haven’t started, and I stupidly made a doctor’s appointment at 8:30 AM so I won’t be able to sleep much. F my inability to use long weekends, and FML. 
                             , 
-“ 42% of Harvard students had 0 sexual partners in the last year. 37% had 1 partner, 10% had 2 partners, 5% had 3 partners, and 5% had 4 or more partners. FOL. 
+“ 42% of Harvard students had 0 sexual partners in the last year. 37% had 1 partner, 10% had 2 partners, 5% had 3 partners, and 5% had 4 or more partners. 
+FOL. 
                             , 
 “ My roommates are always talking about recruiting, and it makes me feel like a slacker. FML 
                             , 
@@ -6383,7 +6385,12 @@ Oh, guess I’m a stalker. FML
                             , 
 “ I still can’t get it up… my orgo grade, that is! FML 
                             , 
-“ A wife, not my lover A lover, not my wife. Both 4000 miles away, in opposite directions And here I sit in Widener, twiddling my thumbs. Without purpose. owerless. pointless. I’m going to get drunk tonight. FML
+“ A wife, not my lover
+A lover, not my wife.
+Both 4000 miles away, in opposite directions
+And here I sit in Widener, twiddling my thumbs.
+Without purpose. powerless. pointless.
+I’m going to get drunk tonight. FML
 , 
 “ My south asian friend told me that non-brown guys are not allowed to many south asian parties, despite the fact that these parties are supposed to be “open.” I didn’t believe him, and waited outside one of them and was told by the bouncer dude that it was “over capacity.” I waited for an hour. Then the party was over. FML 
                             ][
@@ -6809,7 +6816,8 @@ Oh, guess I’m a stalker. FML
                             ][
 “ She ditched me because I’m a freshman. FML 
                             , 
-“ I wish some of the Harvard College students who think the Harvard Extension School is some watered down version of the College (or a glorified community college) would get their facts straight: ‘The ALB is a Harvard University degree; therefore, you must pass at least 52 credits in courses taught by instructors who have a teaching appointment at Harvard University.’ FYL 
+“ I wish some of the Harvard College students who think the Harvard Extension School is some watered down version of the College (or a glorified community college) would get their facts straight:
+‘The ALB is a Harvard University degree; therefore, you must pass at least 52 credits in courses taught by instructors who have a teaching appointment at Harvard University.’ FYL 
                             , 
 “ Can’t get it up. FML 
                             , 

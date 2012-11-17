@@ -1,0 +1,12 @@
+
+Dictionary(12 unique tokens
+
+  # doesn't load the corpus into memory!
+  corpus_memory_friendly = MyCorpus() 
+  if v:
+    print corpus_memory_friendly
+    
+  # load one vector into memory at a time
+  for vector in corpus_memory_friendly: 
+    if v:
+      print vector

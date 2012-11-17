@@ -30,14 +30,14 @@ def getFML(num):
   if v2:
     print cleaned
   
-  fml_text_fs = open('/Users/yifanwu/Dev/harvardfml/data/fml_text.txt','a')
+  fml_text_fs = open('/Users/yifanwu/Dev/harvardfmlanalysis/data/fml_text.txt','a')
   fml_text_fs.write(cleaned)
 
   post_time = soup.find_all("div",class_="datetab")
   
   dictMonth = dict((v,k) for k,v in enumerate(calendar.month_abbr))
   
-  time_fs = open('/Users/yifanwu/Dev/harvardfml/data/time.txt','a')
+  time_fs = open('/Users/yifanwu/Dev/harvardfmlanalysis/data/time.txt','a')
   
   for time_line in str(post_time):
     cleaning_time = str(post_time)[22:-14]
