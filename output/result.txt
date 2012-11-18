@@ -1,0 +1,6 @@
+2012-11-17 18:04:41,364 : INFO : topic diff=0.038672, rho=0.316228
+2012-11-17 18:04:41,364 : INFO : topic #0: 0.012*harvard + 0.011*time + 0.009*hours + 0.007*friends + 0.007*spent + 0.006*3 + 0.006*break + 0.005*roommate + 0.005*home + 0.005*night
+2012-11-17 18:04:41,365 : INFO : topic #1: 0.015*paper + 0.011*hours + 0.008*class + 0.008*guy + 0.007*girl + 0.007*facebook + 0.007*sleep + 0.007*due + 0.006*lamont + 0.006*reading
+2012-11-17 18:04:41,366 : INFO : topic #2: 0.018*harvard + 0.010*boyfriend + 0.009*girl + 0.009*night + 0.009*school + 0.008*day + 0.007*guy + 0.007*roommate + 0.006*girls + 0.005*tomorrow
+2012-11-17 18:04:41,367 : INFO : topic #3: 0.014*love + 0.014*harvard + 0.011*time + 0.011*guy + 0.011*girl + 0.006*people + 0.006*class + 0.006*guys + 0.006*hot + 0.006*girls
+2012-11-17 18:04:41,367 : INFO : topic #4: 0.017*harvard + 0.009*people + 0.009*life + 0.008*freshman + 0.008*feel + 0.007*friends + 0.006*realized + 0.006*fol + 0.006*home + 0.006*senior
